@@ -1,0 +1,50 @@
+name	taxonomy_id	taxonomy_lvl	 Average Abundance.bracken_num	 Average Abundance.bracken_frac
+Phocaeicola vulgatus	821	S	703629.4706	0.107308824
+Segatella copri	165179	S	542002.2941	0.093184706
+Bacteroides uniformis	820	S	603647.1765	0.089751176
+Phocaeicola dorei	357276	S	241821.6471	0.048052941
+Agathobacter rectalis	39491	S	233405.8235	0.030179412
+Faecalibacterium prausnitzii	853	S	191424.1176	0.027675882
+Bacteroides ovatus	28116	S	173893.1765	0.026710588
+Bacteroides cellulosilyticus	246787	S	179602.3529	0.026237647
+Bacteroides stercoris	46506	S	148718.3529	0.024154706
+Bacteroides thetaiotaomicron	818	S	145283.3529	0.023031176
+Bacteroides xylanisolvens	371601	S	142892.7647	0.022309412
+Bacteroides eggerthii	28111	S	135115.6471	0.021289412
+Alistipes putredinis	28117	S	135057.2353	0.019822353
+Parabacteroides distasonis	823	S	101908.7059	0.018997647
+Parabacteroides merdae	46503	S	97901.17647	0.014884118
+Bacteroides fragilis	817	S	84881.76471	0.014400588
+Alistipes shahii	328814	S	86928.05882	0.011183529
+Simiaoa sunii	2763672	S	49569.70588	0.010378824
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	46823.29412	0.010233529
+Bacteroides caccae	47678	S	55858.64706	0.009885294
+Alistipes finegoldii	214856	S	62244.70588	0.008732941
+Roseburia intestinalis	166486	S	54328.17647	0.008511765
+Paraprevotella clara	454154	S	59181.52941	0.007042941
+Alistipes onderdonkii	328813	S	42560.52941	0.006893529
+Segatella hominis	2518605	S	17897.52941	0.006867059
+Alistipes communis	2585118	S	33729.94118	0.005435294
+Akkermansia muciniphila	239935	S	43394.64706	0.005319412
+[Ruminococcus] torques	33039	S	27054.23529	0.005281765
+Bacteroides faecis	674529	S	30683.23529	0.005272353
+Lachnospira eligens	39485	S	27466.29412	0.004999412
+Barnesiella intestinihominis	487174	S	27266	0.004943529
+Blautia wexlerae	418240	S	25103.17647	0.004783529
+Flavonifractor plautii	292800	S	28345.47059	0.004745882
+Odoribacter splanchnicus	28118	S	31416.23529	0.004651176
+Wujia chipingensis	2763670	S	14705.41176	0.004548235
+Phascolarctobacterium faecium	33025	S	25585.94118	0.004359412
+Vescimonas coprocola	2714355	S	20971	0.004308235
+Candidatus Akkermansia timonensis	3068329	S	20273.64706	0.004031765
+Faecalibacterium taiwanense	3030638	S	31456.35294	0.003942941
+Dysosmobacter welbionis	2093857	S	23102	0.003933529
+Oscillibacter sp. PEA192	2109687	S	23891	0.003897647
+Faecalibacterium duncaniae	411483	S	25966	0.003824118
+Mediterraneibacter gnavus	33038	S	20461.64706	0.003608235
+Coprococcus comes	410072	S	19365.52941	0.003424706
+Dorea longicatena	88431	S	17088.23529	0.003302353
+Roseburia hominis	301301	S	17809	0.003057059
+Roseburia faecis	301302	S	17410.58824	0.002861765
+Bacteroides hominis	2763023	S	15182	0.002759412
+Blautia obeum	40520	S	17426.64706	0.002734706

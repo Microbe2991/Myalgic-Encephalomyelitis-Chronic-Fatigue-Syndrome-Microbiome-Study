@@ -1,0 +1,50 @@
+name	taxonomy_id	taxonomy_lvl	 Average Abundance.bracken_num	 Average Abundance.bracken_frac
+Phocaeicola vulgatus	821	S	626300	0.111162308
+Phocaeicola dorei	357276	S	428768.3846	0.08465
+Bacteroides fragilis	817	S	387723.6154	0.077543077
+Bacteroides uniformis	820	S	310112.5385	0.073783077
+Bacteroides stercoris	46506	S	195036.7692	0.050887692
+Bacteroides intestinalis	329854	S	171834.6923	0.04165
+Bacteroides thetaiotaomicron	818	S	211086.1538	0.039193846
+Bacteroides ovatus	28116	S	166043.2308	0.031185385
+Bacteroides xylanisolvens	371601	S	120398.6154	0.025073846
+Parabacteroides distasonis	823	S	112082.1538	0.023074615
+Akkermansia muciniphila	239935	S	65273.46154	0.018626923
+Bacteroides cellulosilyticus	246787	S	73525.07692	0.017414615
+Parabacteroides merdae	46503	S	85016.07692	0.016845385
+Bacteroides eggerthii	28111	S	61893.69231	0.016803846
+Faecalibacterium prausnitzii	853	S	68773.84615	0.014136154
+Bacteroides caccae	47678	S	76874.76923	0.013964615
+Segatella copri	165179	S	122544.1538	0.013908462
+Agathobacter rectalis	39491	S	59449.15385	0.013393846
+Alistipes putredinis	28117	S	51218.92308	0.013135385
+Simiaoa sunii	2763672	S	34797.23077	0.010156154
+Bacteroides sp. CACC 737	2755405	S	62312.30769	0.010132308
+Alistipes onderdonkii	328813	S	43308.53846	0.009257692
+Alistipes finegoldii	214856	S	56998.38462	0.008865385
+Segatella hominis	2518605	S	68488.46154	0.00771
+Alistipes shahii	328814	S	32250.15385	0.007329231
+Flavonifractor plautii	292800	S	36458.53846	0.007180769
+Roseburia intestinalis	166486	S	33669.30769	0.006856923
+Phascolarctobacterium faecium	33025	S	38019	0.006723846
+Megamonas funiformis	437897	S	48480.69231	0.006001538
+Roseburia faecis	301302	S	26086.30769	0.005629231
+Odoribacter splanchnicus	28118	S	27685.69231	0.005563846
+Lachnospira eligens	39485	S	28587.76923	0.005077692
+Bacteroides salyersiae	291644	S	17285.61538	0.004983077
+Barnesiella intestinihominis	487174	S	32181.07692	0.004752308
+Blautia wexlerae	418240	S	25797.23077	0.004703846
+Mediterraneibacter gnavus	33038	S	23564.69231	0.004678462
+Bacteroides faecis	674529	S	18714.38462	0.004417692
+Dysosmobacter welbionis	2093857	S	17262.92308	0.003756154
+Oscillibacter sp. PEA192	2109687	S	17690.69231	0.003703846
+Bacteroides sp. MSB163	3117552	S	16671.76923	0.003516154
+Bacteroides sp. DH3716P	2847299	S	15119.30769	0.003262308
+Bacteroides humanifaecis	2792859	S	15234.61538	0.003133077
+Escherichia coli	562	S	16550.23077	0.0029
+[Ruminococcus] torques	33039	S	14812.07692	0.002896154
+Alistipes communis	2585118	S	11713.69231	0.002889231
+Akkermansia massiliensis	2927224	S	13479.30769	0.002778462
+Bacteroides sp. HF-162	2785531	S	12380.53846	0.002733846
+Bacteroides sp. A1C1	2528203	S	13813.92308	0.00271
+Blautia obeum	40520	S	12118.53846	0.002678462
